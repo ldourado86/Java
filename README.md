@@ -1,3 +1,3 @@
-# Logica-e-algoritimo-VISUALG
+#Java
 Java
 Aqui comecou tudo em java
